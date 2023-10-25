@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Los lenguajes de programación que mas me gustan son Java, JavaScript y Python,</h2>
+<h2 align="left">El lenguaje de programación que más me gusta es JavaScript</h2>
 
 ###
 
