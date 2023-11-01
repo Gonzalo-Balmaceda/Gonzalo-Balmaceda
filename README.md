@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">El lenguaje de programación que más me gusta es JavaScript</h2>
+<h2 align="left">Lenguajes</h2>
 
 ###
 
